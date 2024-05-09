@@ -18,7 +18,7 @@ This is important because it helps us connect with other people who are working 
 Working in the open is part of our culture, frames our way of thinking and is aligned with the GC Digital Standards.
 We manage our work in an agile way with month long sprints using a kanban board and have standups, sprint planning sessions and regular retrospectives.
 
-Finally, through many team-building activities we have built a sense of trust among teammates that allows us to bring the full power of our skills, personalities, and who we are at work.
+Finally, through many team-building activities we have built a sense of trust among teammates that allows us to bring the full power of our skills, personalities, and who we are at work. Test
 
 ## The Team
 
